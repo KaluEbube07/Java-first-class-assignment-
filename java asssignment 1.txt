@@ -1,0 +1,20 @@
+ 
+
+pseudocode (area of a triangle)
+ 
+step 1:start
+step 2: read l & b
+step 3: l= 3,b=4
+step 4:area = 1/2 l*b
+step 5:print area 
+
+
+
+
+finding the area of a rectangle using pseudocode
+ 
+step 1: start
+step 2: read L & B
+step 3: a= 3, b=4
+step 4: area =l*b
+step 5: print area
